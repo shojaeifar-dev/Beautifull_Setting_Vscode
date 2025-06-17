@@ -1,0 +1,48 @@
+Theme: Dark Magic Themes 👉 https://marketplace.visualstudio.com/items?itemName=DavidMorais.dark-magic-themes#:~:text=Dark%20Magic%20is%20a%20small,productivity%20with%20alternative%20dark%20colors. (Dark Magic Night)
+
+Icons: 👉 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+Fonts: 👉 https://rubjo.github.io/victor-mono/
+
+setting.json: 👉
+{
+"editor.fontFamily": "Victor Mono",
+// "editor.fontFamily": "JetBrains Mono",
+// "editor.fontFamily": "Cascadia Code",
+// "editor.fontFamily": "Dank Mono",
+// "editor.fontFamily": "Fragment Mono",
+// "editor.fontFamily": "Roboto",
+"editor.fontWeight": 600,
+"editor.fontLigatures": true,
+"editor.formatOnSave": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"breadcrumbs.enabled": true,
+"editor.minimap.enabled": false,
+"editor.fontSize": 19,
+"editor.lineHeight": 1.8,
+"editor.lineNumbers": "off",
+"explorer.confirmDragAndDrop": false,
+"editor.wordWrap": "on",
+"explorer.confirmDelete": false,
+"reactSnippets.settings.importReactOnTop": false,
+"editor.cursorBlinking": "expand",
+"editor.find.cursorMoveOnType": false,
+"editor.cursorSmoothCaretAnimation": "on",
+"emmet.includeLanguages": {
+"javascript": "javascriptreact"
+},
+"terminal.integrated.enableMultiLinePasteWarning": false,
+"git.openRepositoryInParentFolders": "never",
+"workbench.iconTheme": "material-icon-theme",
+"javascript.updateImportsOnFileMove.enabled": "always",
+"editor.accessibilitySupport": "off",
+"terminal.integrated.env.windows": {},
+"git.autofetch": true,
+"workbench.statusBar.visible": true,
+"workbench.colorTheme": "Dark Magic Night",
+"window.menuBarVisibility": "compact",
+"workbench.layoutControl.enabled": false,
+"window.commandCenter": false,
+"window.zoomLevel": 0,
+"workbench.activityBar.location": true
+}
