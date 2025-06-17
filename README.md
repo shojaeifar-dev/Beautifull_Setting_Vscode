@@ -3,5 +3,3 @@ Theme: Dark Magic Themes 👉 https://marketplace.visualstudio.com/items?itemNam
 Icons: 👉 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 Fonts: 👉 https://rubjo.github.io/victor-mono/
-
-setting.json: 👉
