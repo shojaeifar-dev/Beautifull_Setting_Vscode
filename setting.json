@@ -28,7 +28,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
   "git.openRepositoryInParentFolders": "never",
   "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -41,6 +41,6 @@
   "workbench.layoutControl.enabled": false,
   "window.commandCenter": false,
   "window.zoomLevel": 0,
-  "workbench.activityBar.location": true,
+  "workbench.activityBar.location": "hidden",
   "css.validate": false
 }
